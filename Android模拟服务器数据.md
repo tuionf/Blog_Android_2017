@@ -8,7 +8,8 @@ grammar_cjkRuby: true
 # Charles 设置
 
 1. 在电脑端安装证书，如图 1-2
-![enter description here][1]
+
+![enter description here](https://wx4.sinaimg.cn/large/534fc2d6ly1ffwit6dg0yj20je07uwf1.jpg)
 
 # 手机端配置
 
@@ -29,7 +30,7 @@ grammar_cjkRuby: true
 
 Map To 的网址可以选择 http://www.mocky.io/ 生成你需要的数据
 
-![enter description here][4]
+![enter description here](https://ws2.sinaimg.cn/large/534fc2d6ly1ffwitnl42tj20bo0eet94.jpg)
 
 
   [1]: https://wx4.sinaimg.cn/large/534fc2d6ly1ffwit6dg0yj20je07uwf1.jpg
